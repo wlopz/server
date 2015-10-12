@@ -1,0 +1,1 @@
+Uploaded a file into Sinatra using a ruby file opening hello.txt
